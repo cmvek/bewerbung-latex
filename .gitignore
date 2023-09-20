@@ -1,3 +1,6 @@
+*
+!*.tex
+!*.sty
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.log
